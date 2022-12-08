@@ -10,7 +10,7 @@ setuptools==40.7.1
 pip==19.0.1
 Flask-SQLAlchemy==2.3.2
 SQLAlchemy==1.2.17
-certifi==2018.11.29
+certifi==2022.12.7
 chardet==3.0.4
 idna==2.8
 requests==2.21.0
